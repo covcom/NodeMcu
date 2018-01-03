@@ -29,3 +29,5 @@ You can upload multiple files to your device but there are two reserved file nam
  - /main.py - This file (if present) is run after boot.py and should contain any code to be executed every time the device is powered on or reset.
 
 Beware of writing code containing infinite loops as if may interfer with your ability to interact with MicroPython.
+
+Further information regarding MicroPython on ESP8266 devices can be found here https://docs.micropython.org/en/latest/esp8266/index.html
