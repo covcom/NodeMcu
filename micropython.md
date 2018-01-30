@@ -1,13 +1,13 @@
 # IDEs
 There are a number of IDEs available, pick which ever works best for you...
 
-  - ESPCut - http://espcut.com/ - A portable version of the software is available in the <a href="https://github.com/covcom/NodeMcu/tree/master/tools">tools</a> folder
+  - <a href="http://espcut.com/">ESPCut</a> - A portable version of the software is available in the <a href="https://github.com/covcom/NodeMcu/tree/master/tools">tools</a> folder
   
-  - uPyCraft - https://github.com/DFRobot/uPyCraft
+  - <a href="https://github.com/DFRobot/uPyCraft">uPyCraft</a> - Highly recommended
   
-  - ESPlorer - https://esp8266.ru/esplorer/
+  - <a href="https://esp8266.ru/esplorer/">ESPlorer</a>
   
-  - EsPy - https://github.com/jungervin/EsPy
+  - <a href="https://github.com/jungervin/EsPy">EsPy</a>
 
 ## Installing MicroPython
 You will need to install the MicroPython firmware on your ESP8266 device before you go any further.
