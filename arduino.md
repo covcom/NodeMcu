@@ -1,10 +1,3 @@
-# Install Drivers (optional)
-If you are using a Windows machine you will need to install drivers. 
-Look on the base of the NodeCMU and install the appropriate drivers, the university machines should have the drivers pre-installed.
-
-  CP2102 - https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
-  CH340G - https://github.com/nodemcu/nodemcu-devkit/tree/master/Drivers
-
 # Install Arduino IDE (optional)
 Download and install the Arduino IDE, the university machines should have the software already installed or installable through AppsAnywhere.
 https://www.arduino.cc/en/Main/Software
