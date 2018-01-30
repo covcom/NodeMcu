@@ -18,3 +18,6 @@ Or the ability to develop your own programs in either...
 
 
 Additional information about these options is available in the appropriate .md file.
+
+## Coventry University lab machines
+In order to use a NodeMCU with the university computers additional drivers are required, you can install these on any university machine by installing the Arduino 1.8.5 software via the AppsAnywhere software portal.
