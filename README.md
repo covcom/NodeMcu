@@ -21,3 +21,6 @@ Additional information about these options is available in the appropriate .md f
 
 ## Coventry University lab machines
 In order to use a NodeMCU with the university computers additional drivers are required, you can install these on any university machine by installing the Arduino 1.8.5 software via the AppsAnywhere software portal.
+
+## Personal machines
+If you are using a Windows machine you will need to install drivers yourself. If using a V2 board install the <a href="https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers">CP2102 driver</a>, V3 install the <a href="https://github.com/nodemcu/nodemcu-devkit/tree/master/Drivers">CH340G driver</a>.
