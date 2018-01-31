@@ -14,7 +14,7 @@ Or the ability to develop your own programs in either...
     
     Arduino C - https://github.com/esp8266/Arduino
     
-    or LUA - https://github.com/nodemcu/nodemcu-firmware
+    or LUA - https://nodemcu.readthedocs.io/en/master/en/
 
 
 Additional information about these options is available in the appropriate .md file.
